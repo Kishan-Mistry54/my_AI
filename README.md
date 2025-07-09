@@ -1,2 +1,3 @@
 # my_AI
-I just create an basic ai using python language.
+Hello everyone,
+I create a voice assistant that will help you. it can find anything for from google. it can search videos on youtube. it can play songs and much more for you. 
